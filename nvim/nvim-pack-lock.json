@@ -1,0 +1,24 @@
+{
+  "plugins": {
+    "mini.nvim": {
+      "rev": "1345d191bb3da9c7b0e977f4387c5761f9bff68d",
+      "src": "https://github.com/nvim-mini/mini.nvim",
+      "version": "'v0.18.0'"
+    },
+    "nvim-tree.lua": {
+      "rev": "96b6d0ea594a1e519abd58fd8b60a39a9dec1869",
+      "src": "https://github.com/nvim-tree/nvim-tree.lua",
+      "version": "'96b6d0ea594a1e519abd58fd8b60a39a9dec1869'"
+    },
+    "nvim-treesitter": {
+      "rev": "ca581c3436fc2b236847f5b739ebc263739e5ca6",
+      "src": "https://github.com/nvim-treesitter/nvim-treesitter",
+      "version": "'ca581c3436fc2b236847f5b739ebc263739e5ca6'"
+    },
+    "render-markdown.nvim": {
+      "rev": "640a3ec6d538bad17c328be373c7cad0293d9589",
+      "src": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
+      "version": "'640a3ec6d538bad17c328be373c7cad0293d9589'"
+    }
+  }
+}
