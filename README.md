@@ -1,7 +1,7 @@
 # config
 
-My Neovim config. It is a small setup for writing notes and posts in markdown, with a quiet look and Warp-style git changes.
 
+My Neovim config. I wanted something as few plugins as possible and reeally minimal. It is a small minimal setup for writing code, with a quiet look and simple style git changes
 ![Editor with file tree](nvim/screenshots/editor.png)
 
 ## Contents
